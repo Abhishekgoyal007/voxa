@@ -134,7 +134,7 @@ function App() {
                   <div className="space-y-6">
                     <div className="flex items-start gap-4">
                       <div className="w-8 h-8 rounded-full bg-green-50 text-green-600 flex items-center justify-center font-bold flex-shrink-0">1</div>
-                      <p className="text-gray-600 font-medium">Scan the QR or add <span className="text-black font-bold">+1 415 523 8886</span> to your contacts.</p>
+                      <p className="text-gray-600 font-medium">Scan the QR or add <a href="https://wa.me/14155238886?text=join%20year-shut" target="_blank" rel="noopener noreferrer" className="text-[#FF4D4C] font-bold hover:underline">+1 415 523 8886</a> to your contacts.</p>
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="w-8 h-8 rounded-full bg-green-50 text-green-600 flex items-center justify-center font-bold flex-shrink-0">2</div>
@@ -146,9 +146,9 @@ function App() {
                     </div>
                   </div>
                 </div>
-                <div className="w-full md:w-64 aspect-square bg-white rounded-2xl border-4 border-white shadow-lg overflow-hidden flex items-center justify-center group cursor-pointer hover:border-red-100 transition-colors">
+                <a href="https://wa.me/14155238886?text=join%20year-shut" target="_blank" rel="noopener noreferrer" className="w-full md:w-64 aspect-square bg-white rounded-2xl border-4 border-white shadow-lg overflow-hidden flex items-center justify-center group cursor-pointer hover:border-red-100 transition-all hover:scale-[1.02] active:scale-95">
                   <img src="/qr.jpeg" alt="WhatsApp QR Code" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
-                </div>
+                </a>
               </div>
             </div>
           </div>
