@@ -1,7 +1,7 @@
 {
   "name": "voxa",
   "version": "1.0.0",
-  "description": "Voxa: Voice-First WhatsApp Scheduling Agent powered by Lamatic.ai",
+  "description": "Voxa: Intelligent WhatsApp Scheduling Agent powered by Lamatic.ai",
   "scripts": {
     "dev": "npm run dev --prefix frontend",
     "build": "npm run build --prefix frontend",
