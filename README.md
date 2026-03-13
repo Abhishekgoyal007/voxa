@@ -94,4 +94,3 @@ To recreate the agent logic in **Lamatic.ai**:
 - **Automation**: Airtable & Google Calendar
 - **Developer**: Abhishek Goyal
 - **Email**: [abhishekgoyal1311@gmail.com](mailto:abhishekgoyal1311@gmail.com)
-- **WhatsApp**: [+91 9166403437](https://wa.me/9166403437)
